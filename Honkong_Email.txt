@@ -1,0 +1,59 @@
+Dear foodpanda Partner, 
+ 
+Thank you for partnering with foodpanda. 
+
+Following feedback by our customer, the following changes are made to your invoice: 
+
+Vendor Name: %vendor name%
+Issue Type: %issue type eng%
+Order Date: %order date%
+Order Code:  %order num%
+Removed Item: %removed item%
+
+Amount removed from your invoice: %amount removed% HKD
+Updated Order Subtotal: %total amount%
+
+Please note that the customer was refunded for the item(s) and the affected item(s) were removed from your invoice accordingly. 
+
+
+For further assistance, please reach out to us via Restaurant Portal Help Centre.
+Link to Restaurant Portal Help Centre: https://foodpanda.portal.restaurant?helpcenter-page-id=mainMenu
+
+For Restaurant Portal login assistance, please reach out to us via goDroid Help Centre in your tablet. 
+ 
+Thank you and have a nice day!
+ 
+Best Regards,
+foodpanda Partner Service Team
+ 
+---------------------------------------------------------------
+
+親愛的合作夥伴：
+ 
+感謝你一直以來對foodpanda的支持。
+ 
+根據你的訂單紀錄顯示，我們收到顧客反映有關訂單出現錯誤，因而對你的帳單進行了修改。 
+
+訂單詳情如下： 
+ 
+餐廳名稱 (Vendor name)：%vendor name%
+訂單問題 (Issue Type)：%issue type%
+訂單日期 (Order Date)：%order date%
+訂單編號 (Order Code)：%order num%
+移除項目 (Removed Item)：%removed item%
+
+從帳單中移除的金額 (Amount removed from your invoice): %amount removed% HKD
+更新後的訂單總額 (Updated Order Subtotal): %total amount%
+
+經過確認顧客所提供的資料，我們已為顧客安排該項目之退款，並且該項目將於帳單中移除。
+ 
+
+若需要進一步的協助，請於餐廳平台內的支援中心提交你的申請。
+支援中心連結：https://foodpanda.portal.restaurant?helpcenter-page-id=mainMenu
+
+如沒有餐廳平台帳號，請透過接單裝置內的goDroid支援中心聯絡我們。
+ 
+感謝你聯絡我們，祝你有美好的一天！
+ 
+敬祝 順心，
+foodpanda合作夥伴服務團隊
